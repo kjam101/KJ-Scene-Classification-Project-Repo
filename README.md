@@ -92,6 +92,9 @@ UMAP
 GitHub
 Kaggle
 
+Installation:
+pip install -r requirements.txt
+
 
 📊 Notes
 Baseline model uses transfer learning with ResNet-18
