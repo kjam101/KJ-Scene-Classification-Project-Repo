@@ -58,6 +58,24 @@ Environment Type (built vs natural)
 Day/Night (brightness + contrast heuristic)
 Weather (rule-based grouping)
 
+This project uses the Intel Image Classification Dataset.
+
+Dataset:
+Download the Intel Image Classification dataset from Kaggle:
+https://www.kaggle.com/datasets/puneet6060/intel-image-classification
+
+If your dataset does NOT already include a validation split, run:
+
+python src/create_val_split.py
+
+
+Place the dataset in the following structure:
+
+data/
+  train/
+  val/
+  test/
+
 project-root/
 │
 ├── data/
