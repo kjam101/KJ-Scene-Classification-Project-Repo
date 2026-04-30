@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Model weights / models
+*.pth
+models/
+
+# Data (DO NOT upload dataset)
+data/
+
+# Results (keep plots only)
+results/*
+!results/plots/
+
+# VS Code
+.vscode/
+
+# PyTorch cache
+.cache/
+
+# Environment variables
+.env
