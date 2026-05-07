@@ -1,10 +1,7 @@
-<<<<<<< HEAD
-=======
+
 # KJ-Scene-Classification-Project-Repo
 Repository for LIU Scene Classification Project
 # Robust Scene Classification using Deep Learning
-
->>>>>>> 
 # Scene Classification with Multi-Task Learning
 
 ## 📌 Overview
@@ -38,8 +35,6 @@ A baseline convolutional neural network (CNN) is implemented using transfer lear
 ### Install Dependencies
 ```bash
 pip install torch torchvision numpy matplotlib scikit-learn umap-learn
-<<<<<<< HEAD
-=======
 ```
 >>>>>>>
 
