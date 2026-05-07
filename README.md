@@ -4,7 +4,7 @@
 Repository for LIU Scene Classification Project
 # Robust Scene Classification using Deep Learning
 
->>>>>>> 1344bbac2e6ffd29bd2423f9dd83a521d9f7d999
+>>>>>>> 
 # Scene Classification with Multi-Task Learning
 
 ## 📌 Overview
@@ -41,7 +41,7 @@ pip install torch torchvision numpy matplotlib scikit-learn umap-learn
 <<<<<<< HEAD
 =======
 ```
->>>>>>> 1344bbac2e6ffd29bd2423f9dd83a521d9f7d999
+>>>>>>>
 
 1. Train Baseline Model: python src/base_model.py
 
